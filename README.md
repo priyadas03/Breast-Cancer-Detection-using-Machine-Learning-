@@ -11,11 +11,23 @@ The objective of this project is to analyze the dataset and build a machine lear
 The dataset contains the following columns:
 
 id: A unique identifier for each patient
+
+
 diagnosis: Whether the diagnosis is malignant (M) or benign (B)
+
+
 radius_mean: Mean of distances from center to points on the perimeter
+
+
 texture_mean: Standard deviation of gray-scale values
+
+
 perimeter_mean: Perimeter of the tumor
+
+
 area_mean: Area of the tumor
+
+
 smoothness_mean: Local variation in radius lengths
 compactness_mean: Perimeter^2 / area - 1.0
 concavity_mean: Severity of concave portions of the contour
